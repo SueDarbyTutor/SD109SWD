@@ -1,5 +1,5 @@
-import "./styles.css";
-import "./App.css";
+import "./Styles.css";
+import "./app.css";
 
 import Home from "./components/Home"; //double ; in tutorial
 
